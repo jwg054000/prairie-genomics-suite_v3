@@ -169,4 +169,4 @@ Developed by the Prairie Genomics Team with focus on user experience, scientific
 
 ---
 
-**Prairie Genomics Suite v3** - Making genomics analysis accessible to everyone! 🧬✨
+**Prairie Genomics Suite v3** - Making genomics analysis accessible to everyone! 🧬✨# prairie-genomics-suite_v3
