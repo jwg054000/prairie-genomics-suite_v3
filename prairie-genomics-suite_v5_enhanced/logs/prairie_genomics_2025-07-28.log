@@ -4104,3 +4104,159 @@
 
 [2025-07-28 11:25:00] session_20250728_112500_6822 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
 
+[2025-07-28 13:25:19] session_20250728_132519_9440 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_132519_9440",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 13:25:19"
+} 
+
+[2025-07-28 13:25:19] session_20250728_132519_9440 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 13:25:19",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 13:25:19] session_20250728_132519_9440 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 13:25:19] session_20250728_132519_2542 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_132519_2542",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 13:25:19"
+} 
+
+[2025-07-28 13:25:19] session_20250728_132519_2542 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 13:25:19",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 13:25:19] session_20250728_132519_2542 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 13:34:33] session_20250728_133433_7055 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_133433_7055",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 13:34:33"
+} 
+
+[2025-07-28 13:34:33] session_20250728_133433_7055 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 13:34:33",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 13:34:33] session_20250728_133433_7055 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 13:34:33] session_20250728_133433_1628 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_133433_1628",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 13:34:33"
+} 
+
+[2025-07-28 13:34:33] session_20250728_133433_1628 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 13:34:33",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 13:34:33] session_20250728_133433_1628 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 14:07:12] session_20250728_140712_5943 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_140712_5943",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 14:07:12"
+} 
+
+[2025-07-28 14:07:12] session_20250728_140712_5943 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 14:07:12",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 14:07:12] session_20250728_140712_5943 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 14:07:13] session_20250728_140713_2234 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_140713_2234",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 14:07:13"
+} 
+
+[2025-07-28 14:07:13] session_20250728_140713_2234 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 14:07:13",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 14:07:13] session_20250728_140713_2234 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+

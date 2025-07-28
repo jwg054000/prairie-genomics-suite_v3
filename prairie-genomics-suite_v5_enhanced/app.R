@@ -76,6 +76,27 @@ tryCatch({
   stop(paste("Error loading modules:", e$message))
 })
 
+# Load Phase 1 Modern Components
+tryCatch({
+  source("phase1/components/modern_ui_components.R")
+  ui_components <- source("phase1/components/modern_ui_components.R")$value
+  cat("✅ Phase 1 modern UI components loaded\n")
+}, error = function(e) {
+  cat("⚠️ Phase 1 components not available:", e$message, "\n")
+  # Create fallback functions if Phase 1 not available
+  ui_components <- list(
+    modern_card = function(...) wellPanel(...),
+    stats_card = function(title, value, ...) valueBox(value, title, ...),
+    modern_progress = function(id, label, percentage, ...) {
+      div(
+        h5(label),
+        div(class = "progress", 
+            div(class = "progress-bar", style = paste0("width: ", percentage, "%")))
+      )
+    }
+  )
+})
+
 # Enhanced data processing functions for large datasets
 monitor_memory <- function() {
   tryCatch({
@@ -228,7 +249,7 @@ ui <- dashboardPage(
       class = "dropdown",
       tags$a(
         href = "#",
-        tags$span("R Shiny v1.0", style = "color: #ffffff; font-size: 12px;")
+        tags$span("Phase 1 Enhanced", style = "color: #ffffff; font-size: 12px;")
       )
     )
   ),
@@ -286,11 +307,17 @@ ui <- dashboardPage(
   ),
   
   dashboardBody(
-    # Custom CSS
+    # Add Phase 1 modern styling assets
     tags$head(
+      # Include modern CSS components
+      includeCSS("www/css/modern_components.css"),
+      # Include modern JavaScript interactions
+      includeScript("www/js/modern_interactions.js"),
+      # Custom CSS including Phase 1 integration
       tags$style(HTML("
+        /* Phase 1 Enhanced Styling */
         .content-wrapper, .right-side {
-          background-color: #f4f4f4;
+          background-color: var(--gray-50);
         }
         
         .small-box {

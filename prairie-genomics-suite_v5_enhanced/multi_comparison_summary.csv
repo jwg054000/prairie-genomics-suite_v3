@@ -1,0 +1,6 @@
+"Comparison","Description","Genes_Tested","Significant_Genes","Percent_Significant","Up_Condition2","Up_Condition1","Quality_Status","Analysis_Date"
+"MC9_vs_M1245","Cancer aggressiveness comparison",12312,571,4.6,227,344,"PASS",2025-07-28
+"MC9_vs_M242","Cell cycle pathway differences",13211,1056,8,430,626,"PASS",2025-07-28
+"MLM_vs_M1245","Metabolic vs invasive phenotypes",12977,1219,9.4,605,614,"PASS",2025-07-28
+"MLM_vs_M242","Invasion vs proliferation focus",14597,1338,9.2,602,736,"PASS",2025-07-28
+"M1245_vs_M242","Metabolic vs cell cycle emphasis",10359,15,0.1,11,4,"PASS",2025-07-28
