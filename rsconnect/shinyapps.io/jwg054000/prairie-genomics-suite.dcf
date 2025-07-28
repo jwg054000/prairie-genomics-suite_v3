@@ -1,0 +1,10 @@
+name: prairie-genomics-suite
+title:
+username: jwg054000
+account: jwg054000
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15118319
+bundleId: 10668466
+url: https://jwg054000.shinyapps.io/prairie-genomics-suite/
+version: 1

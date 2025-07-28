@@ -1,0 +1,4106 @@
+[2025-07-28 03:12:54] session_20250728_031254_4908 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_031254_4908",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:12:54"
+} 
+
+[2025-07-28 03:12:54] session_20250728_031254_4908 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Inf",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:12:54",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:12:54] session_20250728_031254_4908 [ERROR] TEST_ERROR: This is a test error message
+    Details: {
+  "test_param": "error_value"
+}
+    Stack Trace:
+       No traceback available  
+
+[2025-07-28 03:12:54] session_20250728_031254_4908 [WARNING] TEST_WARNING: This is a test warning message
+    Details: {
+  "test_param": "warning_value"
+} 
+
+[2025-07-28 03:12:54] session_20250728_031254_4908 [INFO] TEST_INFO: This is a test info message
+    Details: {
+  "test_param": "info_value"
+} 
+
+[2025-07-28 03:12:54] session_20250728_031254_4908 [INFO] USER_ACTION: User performed: TEST_BUTTON_CLICK
+    Details: {
+  "action": "TEST_BUTTON_CLICK",
+  "inputs": {
+    "button_id": "test_btn",
+    "user_input": "test_data"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:13:22] session_20250728_031322_2240 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_031322_2240",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:13:22"
+} 
+
+[2025-07-28 03:13:22] session_20250728_031322_2240 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:13:22",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:13:22] session_20250728_031322_2240 [ERROR] TEST_ERROR: This is a test error message
+    Details: {
+  "test_param": "error_value"
+}
+    Stack Trace:
+       No traceback available  
+
+[2025-07-28 03:13:22] session_20250728_031322_2240 [WARNING] TEST_WARNING: This is a test warning message
+    Details: {
+  "test_param": "warning_value"
+} 
+
+[2025-07-28 03:13:22] session_20250728_031322_2240 [INFO] TEST_INFO: This is a test info message
+    Details: {
+  "test_param": "info_value"
+} 
+
+[2025-07-28 03:13:22] session_20250728_031322_2240 [INFO] USER_ACTION: User performed: TEST_BUTTON_CLICK
+    Details: {
+  "action": "TEST_BUTTON_CLICK",
+  "inputs": {
+    "button_id": "test_btn",
+    "user_input": "test_data"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:13:22] session_20250728_031322_2240 [ERROR] TEST_FUNCTION: Function failed: Test function execution
+    Details: {
+  "error_message": "no function to return from, jumping to top level",
+  "error_class": "simpleError",
+  "function_context": "Test function execution"
+}
+    Stack Trace:
+       No traceback available  
+
+[2025-07-28 03:13:43] session_20250728_031343_8472 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_031343_8472",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:13:43"
+} 
+
+[2025-07-28 03:13:43] session_20250728_031343_8472 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:13:43",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:13:43] session_20250728_031343_8472 [INFO] FINAL_TEST: Testing complete logging system 
+
+[2025-07-28 03:13:43] session_20250728_031343_8472 [INFO] FUNCTION_SUCCESS: Completed: Successful operation test
+    Details: {
+  "duration_seconds": 0,
+  "result_type": "data.frame"
+} 
+
+[2025-07-28 03:13:43] session_20250728_031343_8472 [ERROR] TEST_ERROR: Function failed: Error operation test
+    Details: {
+  "error_message": "Intentional test error for logging",
+  "error_class": "simpleError",
+  "function_context": "Error operation test"
+}
+    Stack Trace:
+       No traceback available  
+
+[2025-07-28 03:13:43] session_20250728_031343_8472 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "KEGG",
+    "species": "mouse",
+    "gene_count": 500
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:16:29] session_20250728_031629_7758 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_031629_7758",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:16:29"
+} 
+
+[2025-07-28 03:16:29] session_20250728_031629_7758 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:16:29",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:16:29] session_20250728_031629_7758 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 03:16:32] session_20250728_031629_7758 [INFO] SPECIES_DETECTION: Starting species auto-detection
+    Details: {
+  "total_genes": 5,
+  "sample_genes": ["ENSG00000000003", "ENSG00000000005", "ENSG00000000419", "ENSG00000000457", "ENSG00000000460"]
+} 
+
+[2025-07-28 03:16:32] session_20250728_031629_7758 [INFO] SPECIES_DETECTION_SUCCESS: Species successfully detected
+    Details: {
+  "detected_species": "human",
+  "confidence": 0.9,
+  "detection_method": "ensembl_id",
+  "ensembl_matches": 5,
+  "symbol_matches": 5
+} 
+
+[2025-07-28 03:16:32] session_20250728_031629_7758 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_TEST
+    Details: {
+  "action": "PATHWAY_ANALYSIS_TEST",
+  "inputs": {
+    "analysis_type": "TEST",
+    "gene_count": 5,
+    "species": "human"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:16:32] session_20250728_031629_7758 [ERROR] PATHWAY_TEST: Function failed: Testing pathway analysis error handling
+    Details: {
+  "error_message": "no function to return from, jumping to top level",
+  "error_class": "simpleError",
+  "function_context": "Testing pathway analysis error handling"
+}
+    Stack Trace:
+       No traceback available  
+
+[2025-07-28 03:30:05] session_20250728_033005_5332 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_033005_5332",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:30:05"
+} 
+
+[2025-07-28 03:30:05] session_20250728_033005_5332 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:30:05",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:30:05] session_20250728_033005_5332 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 03:30:05] session_20250728_033005_2411 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_033005_2411",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:30:05"
+} 
+
+[2025-07-28 03:30:05] session_20250728_033005_2411 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:30:05",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:30:05] session_20250728_033005_2411 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 03:31:25] session_20250728_033005_2411 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "KEGG",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:31:25] session_20250728_033005_2411 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "KEGG",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 03:31:26] session_20250728_033005_2411 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 786,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:31:38] session_20250728_033005_2411 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 12.29,
+  "input_gene_count": 786,
+  "output_pathway_count": 7,
+  "genes_per_second": 63.94,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:31:38] session_20250728_033005_2411 [INFO] KEGG_SUCCESS: KEGG analysis completed with 7 pathways 
+
+[2025-07-28 03:31:38] session_20250728_033005_2411 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 12.61,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 1025.29,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:31:57] session_20250728_033005_2411 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "KEGG",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:31:57] session_20250728_033005_2411 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "KEGG",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 03:31:57] session_20250728_033005_2411 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 786,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:31:57] session_20250728_033005_2411 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 0.46,
+  "input_gene_count": 786,
+  "output_pathway_count": 7,
+  "genes_per_second": 1714.28,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:31:57] session_20250728_033005_2411 [INFO] KEGG_SUCCESS: KEGG analysis completed with 7 pathways 
+
+[2025-07-28 03:31:57] session_20250728_033005_2411 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 0.59,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 21773.64,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:32:22] session_20250728_033005_2411 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "KEGG",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:32:22] session_20250728_033005_2411 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "KEGG",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 03:32:22] session_20250728_033005_2411 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 786,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:32:22] session_20250728_033005_2411 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 0.44,
+  "input_gene_count": 786,
+  "output_pathway_count": 7,
+  "genes_per_second": 1766.71,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:32:22] session_20250728_033005_2411 [INFO] KEGG_SUCCESS: KEGG analysis completed with 7 pathways 
+
+[2025-07-28 03:32:22] session_20250728_033005_2411 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 0.58,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 22288.6,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:35:09] session_20250728_033509_7208 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_033509_7208",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:35:09"
+} 
+
+[2025-07-28 03:35:09] session_20250728_033509_7208 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:35:09",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:35:09] session_20250728_033509_7208 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 03:35:10] session_20250728_033510_3543 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_033510_3543",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:35:10"
+} 
+
+[2025-07-28 03:35:10] session_20250728_033510_3543 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:35:10",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:35:10] session_20250728_033510_3543 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 03:35:51] session_20250728_033510_3543 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:35:51] session_20250728_033510_3543 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 03:35:51] session_20250728_033510_3543 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 0.26,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 49985.69,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:48:11] session_20250728_034811_3817 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_034811_3817",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:48:11"
+} 
+
+[2025-07-28 03:48:11] session_20250728_034811_3817 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:48:11",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:48:11] session_20250728_034811_3817 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 03:48:11] session_20250728_034811_1425 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_034811_1425",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 03:48:11"
+} 
+
+[2025-07-28 03:48:11] session_20250728_034811_1425 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 03:48:11",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 03:48:11] session_20250728_034811_1425 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 03:51:05] session_20250728_034811_1425 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "KEGG",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:51:05] session_20250728_034811_1425 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "KEGG",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 03:51:05] session_20250728_034811_1425 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 786,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:51:17] session_20250728_034811_1425 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 12.49,
+  "input_gene_count": 786,
+  "output_pathway_count": 7,
+  "genes_per_second": 62.94,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:51:17] session_20250728_034811_1425 [INFO] KEGG_SUCCESS: KEGG analysis completed with 7 pathways 
+
+[2025-07-28 03:51:17] session_20250728_034811_1425 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 12.74,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 1014.47,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 03:51:55] session_20250728_034811_1425 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 03:51:55] session_20250728_034811_1425 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 03:51:55] session_20250728_034811_1425 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 0.17,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 78088.31,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 04:07:37] session_20250728_040737_1468 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_040737_1468",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 04:07:37"
+} 
+
+[2025-07-28 04:07:37] session_20250728_040737_1468 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 04:07:37",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 04:07:37] session_20250728_040737_1468 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 04:09:38] session_20250728_040938_5187 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_040938_5187",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 04:09:38"
+} 
+
+[2025-07-28 04:09:38] session_20250728_040938_5187 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 04:09:38",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 04:09:38] session_20250728_040938_5187 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 04:09:38] session_20250728_040938_2557 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_040938_2557",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 04:09:38"
+} 
+
+[2025-07-28 04:09:38] session_20250728_040938_2557 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 04:09:38",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 04:09:38] session_20250728_040938_2557 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 04:10:25] session_20250728_040938_2557 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 04:10:25] session_20250728_040938_2557 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 04:10:25] session_20250728_040938_2557 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 0.24,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 52921.04,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 04:46:40] session_20250728_044640_9535 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_044640_9535",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 04:46:40"
+} 
+
+[2025-07-28 04:46:40] session_20250728_044640_9535 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 04:46:40",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 04:46:40] session_20250728_044640_9535 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 04:46:59] session_20250728_044659_3210 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_044659_3210",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 04:46:59"
+} 
+
+[2025-07-28 04:46:59] session_20250728_044659_3210 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 04:46:59",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 04:46:59] session_20250728_044659_3210 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 04:49:08] session_20250728_044908_6428 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_044908_6428",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 04:49:08"
+} 
+
+[2025-07-28 04:49:08] session_20250728_044908_6428 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 04:49:08",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 04:49:08] session_20250728_044908_6428 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 04:49:09] session_20250728_044909_6488 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_044909_6488",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 04:49:09"
+} 
+
+[2025-07-28 04:49:09] session_20250728_044909_6488 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 04:49:09",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 04:49:09] session_20250728_044909_6488 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 04:49:47] session_20250728_044909_6488 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 04:49:47] session_20250728_044909_6488 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 04:49:47] session_20250728_044909_6488 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 500,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 04:50:13] session_20250728_044909_6488 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 25.86,
+  "input_gene_count": 500,
+  "output_pathway_count": 277,
+  "genes_per_second": 19.34,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 04:50:13] session_20250728_044909_6488 [INFO] GO_SUCCESS: GO BP analysis completed with 277 pathways 
+
+[2025-07-28 04:50:13] session_20250728_044909_6488 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 26.14,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 494.45,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:03:41] session_20250728_050341_4431 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_050341_4431",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:03:41"
+} 
+
+[2025-07-28 05:03:41] session_20250728_050341_4431 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:03:41",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:03:41] session_20250728_050341_4431 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 05:03:42] session_20250728_050342_2753 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_050342_2753",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:03:42"
+} 
+
+[2025-07-28 05:03:42] session_20250728_050342_2753 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:03:42",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:03:42] session_20250728_050342_2753 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 05:04:30] session_20250728_050342_2753 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:04:30] session_20250728_050342_2753 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 05:04:30] session_20250728_050342_2753 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 786,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:04:58] session_20250728_050342_2753 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 27.44,
+  "input_gene_count": 786,
+  "output_pathway_count": 552,
+  "genes_per_second": 28.65,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:04:58] session_20250728_050342_2753 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 552,
+  "ontology": "BP",
+  "gene_count": 786,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 05:04:58] session_20250728_050342_2753 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 28.14,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 459.23,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:05:50] session_20250728_050342_2753 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "KEGG",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:05:50] session_20250728_050342_2753 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "KEGG",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 05:05:50] session_20250728_050342_2753 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 786,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:06:03] session_20250728_050342_2753 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 12.43,
+  "input_gene_count": 786,
+  "output_pathway_count": 13,
+  "genes_per_second": 63.22,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:06:03] session_20250728_050342_2753 [INFO] KEGG_SUCCESS: KEGG analysis completed with 13 pathways 
+
+[2025-07-28 05:06:03] session_20250728_050342_2753 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 12.62,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 1024.43,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:07:48] session_20250728_050748_7356 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_050748_7356",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:07:48"
+} 
+
+[2025-07-28 05:07:48] session_20250728_050748_7356 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:07:48",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:07:48] session_20250728_050748_7356 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 05:08:47] session_20250728_050847_1964 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_050847_1964",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:08:47"
+} 
+
+[2025-07-28 05:08:47] session_20250728_050847_1964 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:08:47",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:08:47] session_20250728_050847_1964 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 05:26:56] session_20250728_052656_8963 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_052656_8963",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:26:56"
+} 
+
+[2025-07-28 05:26:56] session_20250728_052656_8963 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:26:56",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:26:56] session_20250728_052656_8963 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 05:26:57] session_20250728_052657_6220 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_052657_6220",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:26:57"
+} 
+
+[2025-07-28 05:26:57] session_20250728_052657_6220 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:26:57",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:26:57] session_20250728_052657_6220 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 05:27:38] session_20250728_052657_6220 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12613
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:27:38] session_20250728_052657_6220 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12613
+} 
+
+[2025-07-28 05:27:38] session_20250728_052657_6220 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 756,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:28:06] session_20250728_052657_6220 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 27.98,
+  "input_gene_count": 756,
+  "output_pathway_count": 570,
+  "genes_per_second": 27.02,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:28:06] session_20250728_052657_6220 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 570,
+  "ontology": "BP",
+  "gene_count": 756,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 05:28:07] session_20250728_052657_6220 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 28.66,
+  "input_gene_count": 12613,
+  "output_pathway_count": 0,
+  "genes_per_second": 440.05,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:33:26] session_20250728_053326_6543 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_053326_6543",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:33:26"
+} 
+
+[2025-07-28 05:33:26] session_20250728_053326_6543 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:33:26",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:33:26] session_20250728_053326_6543 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 05:34:46] session_20250728_053446_8591 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_053446_8591",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:34:46"
+} 
+
+[2025-07-28 05:34:46] session_20250728_053446_8591 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:34:46",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:34:46] session_20250728_053446_8591 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 05:34:46] session_20250728_053446_6976 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_053446_6976",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:34:46"
+} 
+
+[2025-07-28 05:34:46] session_20250728_053446_6976 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:34:46",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:34:46] session_20250728_053446_6976 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 05:35:17] session_20250728_053446_6976 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:35:17] session_20250728_053446_6976 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 05:35:17] session_20250728_053446_6976 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 786,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 05:35:46] session_20250728_053446_6976 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 28.94,
+  "input_gene_count": 786,
+  "output_pathway_count": 552,
+  "genes_per_second": 27.16,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:35:46] session_20250728_053446_6976 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 552,
+  "ontology": "BP",
+  "gene_count": 786,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 05:35:46] session_20250728_053446_6976 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 29.62,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 436.26,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 05:52:43] session_20250728_055243_1654 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_055243_1654",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:52:43"
+} 
+
+[2025-07-28 05:52:43] session_20250728_055243_1654 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:52:43",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:52:43] session_20250728_055243_1654 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 05:52:50] session_20250728_055250_7580 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_055250_7580",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 05:52:50"
+} 
+
+[2025-07-28 05:52:50] session_20250728_055250_7580 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 05:52:50",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 05:52:50] session_20250728_055250_7580 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 06:53:31] session_20250728_065331_8138 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_065331_8138",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 06:53:31"
+} 
+
+[2025-07-28 06:53:31] session_20250728_065331_8138 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 06:53:31",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 06:53:31] session_20250728_065331_8138 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 06:53:31] session_20250728_065331_7985 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_065331_7985",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 06:53:31"
+} 
+
+[2025-07-28 06:53:31] session_20250728_065331_7985 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 06:53:31",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 06:53:31] session_20250728_065331_7985 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 06:54:12] session_20250728_065331_7985 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 06:54:12] session_20250728_065331_7985 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 06:54:12] session_20250728_065331_7985 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 786,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 06:54:42] session_20250728_065331_7985 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 30.38,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 425.36,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 06:57:56] session_20250728_065756_9872 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_065756_9872",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 06:57:56"
+} 
+
+[2025-07-28 06:57:56] session_20250728_065756_9872 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 06:57:56",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 06:57:56] session_20250728_065756_9872 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 06:58:21] session_20250728_065821_9872 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_065821_9872",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 06:58:21"
+} 
+
+[2025-07-28 06:58:21] session_20250728_065821_9872 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 06:58:21",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 06:58:21] session_20250728_065821_9872 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 06:58:24] session_20250728_065821_9872 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 06:58:43] session_20250728_065821_9872 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 19.78,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.51,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 06:58:43] session_20250728_065821_9872 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 06:59:00] session_20250728_065900_1409 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_065900_1409",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 06:59:00"
+} 
+
+[2025-07-28 06:59:00] session_20250728_065900_1409 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 06:59:00",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 06:59:00] session_20250728_065900_1409 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 06:59:03] session_20250728_065900_1409 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 10,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 06:59:16] session_20250728_065900_1409 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 12.5,
+  "input_gene_count": 10,
+  "output_pathway_count": 25,
+  "genes_per_second": 0.8,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 06:59:16] session_20250728_065900_1409 [INFO] KEGG_SUCCESS: KEGG analysis completed with 25 pathways 
+
+[2025-07-28 07:19:36] session_20250728_071936_4022 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_071936_4022",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:19:36"
+} 
+
+[2025-07-28 07:19:36] session_20250728_071936_4022 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:19:36",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:19:36] session_20250728_071936_4022 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 07:19:37] session_20250728_071937_3976 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_071937_3976",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:19:37"
+} 
+
+[2025-07-28 07:19:37] session_20250728_071937_3976 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:19:37",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:19:37] session_20250728_071937_3976 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:24:04] session_20250728_071937_3976 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:24:04] session_20250728_071937_3976 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 07:24:04] session_20250728_071937_3976 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 300,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:24:30] session_20250728_071937_3976 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 25.45,
+  "input_gene_count": 300,
+  "output_pathway_count": 246,
+  "genes_per_second": 11.79,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 07:24:30] session_20250728_071937_3976 [INFO] GO_SUCCESS: GO BP analysis completed with 246 pathways 
+
+[2025-07-28 07:24:30] session_20250728_071937_3976 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 25.91,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 498.71,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 07:26:52] session_20250728_072652_1100 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_072652_1100",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:26:52"
+} 
+
+[2025-07-28 07:26:52] session_20250728_072652_1100 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:26:52",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:26:52] session_20250728_072652_1100 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:26:55] session_20250728_072652_1100 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:27:16] session_20250728_072652_1100 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.29,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:27:16] session_20250728_072652_1100 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:27:59] session_20250728_072759_6461 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_072759_6461",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:27:59"
+} 
+
+[2025-07-28 07:27:59] session_20250728_072759_6461 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:27:59",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:27:59] session_20250728_072759_6461 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:28:03] session_20250728_072759_6461 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:28:23] session_20250728_072759_6461 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.34,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:28:23] session_20250728_072759_6461 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:29:40] session_20250728_072940_8865 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_072940_8865",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:29:40"
+} 
+
+[2025-07-28 07:29:40] session_20250728_072940_8865 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:29:40",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:29:40] session_20250728_072940_8865 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:29:43] session_20250728_072940_8865 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:30:04] session_20250728_072940_8865 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.43,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:30:04] session_20250728_072940_8865 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:30:51] session_20250728_073051_3844 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_073051_3844",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:30:51"
+} 
+
+[2025-07-28 07:30:51] session_20250728_073051_3844 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:30:51",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:30:51] session_20250728_073051_3844 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:30:54] session_20250728_073051_3844 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:31:15] session_20250728_073051_3844 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.59,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:31:15] session_20250728_073051_3844 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:31:33] session_20250728_073133_3855 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_073133_3855",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:31:33"
+} 
+
+[2025-07-28 07:31:33] session_20250728_073133_3855 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:31:33",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:31:33] session_20250728_073133_3855 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:31:36] session_20250728_073133_3855 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:31:56] session_20250728_073133_3855 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.3,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:31:56] session_20250728_073133_3855 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:34:12] session_20250728_073412_9860 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_073412_9860",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:34:12"
+} 
+
+[2025-07-28 07:34:12] session_20250728_073412_9860 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:34:12",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:34:12] session_20250728_073412_9860 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:34:15] session_20250728_073412_9860 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:34:35] session_20250728_073412_9860 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.39,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:34:35] session_20250728_073412_9860 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:35:05] session_20250728_073505_1363 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_073505_1363",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:35:05"
+} 
+
+[2025-07-28 07:35:05] session_20250728_073505_1363 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:35:05",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:35:05] session_20250728_073505_1363 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:35:08] session_20250728_073505_1363 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:35:28] session_20250728_073505_1363 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.48,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:35:28] session_20250728_073505_1363 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:35:29] session_20250728_073505_1363 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 10,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:35:40] session_20250728_073505_1363 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 11.56,
+  "input_gene_count": 10,
+  "output_pathway_count": 25,
+  "genes_per_second": 0.87,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:35:40] session_20250728_073505_1363 [INFO] KEGG_SUCCESS: KEGG analysis completed with 25 pathways 
+
+[2025-07-28 07:37:06] session_20250728_073706_2484 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_073706_2484",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:37:06"
+} 
+
+[2025-07-28 07:37:06] session_20250728_073706_2484 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:37:06",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:37:06] session_20250728_073706_2484 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:37:10] session_20250728_073706_2484 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:37:30] session_20250728_073706_2484 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.54,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:37:30] session_20250728_073706_2484 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:37:31] session_20250728_073706_2484 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 10,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:37:40] session_20250728_073706_2484 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 9.45,
+  "input_gene_count": 10,
+  "output_pathway_count": 25,
+  "genes_per_second": 1.06,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:37:40] session_20250728_073706_2484 [INFO] KEGG_SUCCESS: KEGG analysis completed with 25 pathways 
+
+[2025-07-28 07:38:49] session_20250728_073849_8845 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_073849_8845",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:38:49"
+} 
+
+[2025-07-28 07:38:49] session_20250728_073849_8845 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:38:49",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:38:49] session_20250728_073849_8845 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:38:52] session_20250728_073849_8845 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:39:12] session_20250728_073849_8845 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.38,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:39:12] session_20250728_073849_8845 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:39:13] session_20250728_073849_8845 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 10,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:39:22] session_20250728_073849_8845 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 9.56,
+  "input_gene_count": 10,
+  "output_pathway_count": 25,
+  "genes_per_second": 1.05,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:39:22] session_20250728_073849_8845 [INFO] KEGG_SUCCESS: KEGG analysis completed with 25 pathways 
+
+[2025-07-28 07:41:21] session_20250728_074121_8721 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074121_8721",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:41:21"
+} 
+
+[2025-07-28 07:41:21] session_20250728_074121_8721 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:41:21",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:41:21] session_20250728_074121_8721 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:41:24] session_20250728_074121_8721 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:41:45] session_20250728_074121_8721 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.17,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.5,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:41:45] session_20250728_074121_8721 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:42:07] session_20250728_074207_2096 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074207_2096",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:42:07"
+} 
+
+[2025-07-28 07:42:07] session_20250728_074207_2096 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:42:07",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:42:07] session_20250728_074207_2096 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:42:10] session_20250728_074207_2096 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:42:30] session_20250728_074207_2096 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.18,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.5,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:42:30] session_20250728_074207_2096 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:42:55] session_20250728_074254_1261 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074254_1261",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:42:55"
+} 
+
+[2025-07-28 07:42:55] session_20250728_074254_1261 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:42:55",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:42:55] session_20250728_074254_1261 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:42:58] session_20250728_074254_1261 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:43:18] session_20250728_074254_1261 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.43,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:43:18] session_20250728_074254_1261 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:43:25] session_20250728_074325_2931 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074325_2931",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:43:25"
+} 
+
+[2025-07-28 07:43:25] session_20250728_074325_2931 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:43:25",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:43:25] session_20250728_074325_2931 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:43:28] session_20250728_074325_2931 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:43:48] session_20250728_074325_2931 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.25,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:43:48] session_20250728_074325_2931 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:44:09] session_20250728_074409_9427 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074409_9427",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:44:09"
+} 
+
+[2025-07-28 07:44:09] session_20250728_074409_9427 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:44:09",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:44:09] session_20250728_074409_9427 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:44:12] session_20250728_074409_9427 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:44:32] session_20250728_074409_9427 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.18,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.5,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:44:32] session_20250728_074409_9427 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:45:05] session_20250728_074505_4562 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074505_4562",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:45:05"
+} 
+
+[2025-07-28 07:45:05] session_20250728_074505_4562 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:45:05",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:45:05] session_20250728_074505_4562 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:45:08] session_20250728_074505_4562 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:45:28] session_20250728_074505_4562 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.15,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.5,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:45:28] session_20250728_074505_4562 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:45:50] session_20250728_074550_8770 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074550_8770",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:45:50"
+} 
+
+[2025-07-28 07:45:50] session_20250728_074550_8770 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:45:50",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:45:50] session_20250728_074550_8770 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:45:53] session_20250728_074550_8770 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:46:14] session_20250728_074550_8770 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.39,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:46:14] session_20250728_074550_8770 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:46:56] session_20250728_074656_5870 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074656_5870",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:46:56"
+} 
+
+[2025-07-28 07:46:56] session_20250728_074656_5870 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:46:56",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:46:56] session_20250728_074656_5870 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 07:46:57] session_20250728_074657_3839 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_074657_3839",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:46:57"
+} 
+
+[2025-07-28 07:46:57] session_20250728_074657_3839 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:46:57",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:46:57] session_20250728_074657_3839 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:47:47] session_20250728_074657_3839 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:47:47] session_20250728_074657_3839 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 07:47:47] session_20250728_074657_3839 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 300,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:48:13] session_20250728_074657_3839 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 25.17,
+  "input_gene_count": 300,
+  "output_pathway_count": 246,
+  "genes_per_second": 11.92,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 07:48:13] session_20250728_074657_3839 [INFO] GO_SUCCESS: GO BP analysis completed with 246 pathways 
+
+[2025-07-28 07:48:13] session_20250728_074657_3839 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 25.48,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 507.25,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 07:52:00] session_20250728_075200_6724 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_075200_6724",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:52:00"
+} 
+
+[2025-07-28 07:52:00] session_20250728_075200_6724 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:52:00",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:52:00] session_20250728_075200_6724 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:52:03] session_20250728_075200_6724 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:52:23] session_20250728_075200_6724 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.29,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:52:23] session_20250728_075200_6724 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:52:23] session_20250728_075200_6724 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 10,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:52:35] session_20250728_075200_6724 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 11.77,
+  "input_gene_count": 10,
+  "output_pathway_count": 25,
+  "genes_per_second": 0.85,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:52:35] session_20250728_075200_6724 [INFO] KEGG_SUCCESS: KEGG analysis completed with 25 pathways 
+
+[2025-07-28 07:53:13] session_20250728_075313_4473 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_075313_4473",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:53:13"
+} 
+
+[2025-07-28 07:53:13] session_20250728_075313_4473 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:53:13",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:53:13] session_20250728_075313_4473 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:53:17] session_20250728_075313_4473 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:53:38] session_20250728_075313_4473 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 21.39,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.47,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:53:38] session_20250728_075313_4473 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:55:52] session_20250728_075552_5024 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_075552_5024",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:55:52"
+} 
+
+[2025-07-28 07:55:52] session_20250728_075552_5024 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:55:52",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:55:52] session_20250728_075552_5024 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:55:55] session_20250728_075552_5024 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:56:15] session_20250728_075552_5024 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.51,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:56:15] session_20250728_075552_5024 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:56:16] session_20250728_075552_5024 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 10,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:56:26] session_20250728_075552_5024 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 9.7,
+  "input_gene_count": 10,
+  "output_pathway_count": 25,
+  "genes_per_second": 1.03,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:56:26] session_20250728_075552_5024 [INFO] KEGG_SUCCESS: KEGG analysis completed with 25 pathways 
+
+[2025-07-28 07:56:26] session_20250728_075552_5024 [INFO] FUNCTION_SUCCESS: Completed: KEGG pathway enrichment analysis
+    Details: {
+  "duration_seconds": 9.71,
+  "result_type": "enrichResult"
+} 
+
+[2025-07-28 07:56:26] session_20250728_075552_5024 [INFO] KEGG_GENE_CONVERSION: Starting manual Entrez ID to gene symbol conversion
+    Details: {
+  "pathway_count": 107,
+  "species": "mouse",
+  "has_geneID_column": true
+} 
+
+[2025-07-28 07:56:29] session_20250728_075552_5024 [INFO] KEGG_GENE_CONVERSION_COMPLETE: Manual gene symbol conversion completed
+    Details: {
+  "conversion_stats": {
+    "total_pathways": 107,
+    "successful_conversions": 107,
+    "failed_conversions": 0,
+    "entrez_ids_converted": 151,
+    "symbols_found": 151
+  },
+  "conversion_rate_percent": 100,
+  "species": "mouse"
+} 
+
+[2025-07-28 07:57:27] session_20250728_075727_8345 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_075727_8345",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 07:57:27"
+} 
+
+[2025-07-28 07:57:27] session_20250728_075727_8345 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 07:57:27",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 07:57:27] session_20250728_075727_8345 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 07:57:30] session_20250728_075727_8345 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 10,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:57:50] session_20250728_075727_8345 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 20.43,
+  "input_gene_count": 10,
+  "output_pathway_count": 874,
+  "genes_per_second": 0.49,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:57:50] session_20250728_075727_8345 [WARNING] GO_PATHWAY_INFLATION: GO analysis returned excessive number of pathways
+    Details: {
+  "pathway_count": 874,
+  "ontology": "BP",
+  "gene_count": 10,
+  "parameters": {
+    "pvalue": 0.01,
+    "qvalue": 0.05,
+    "minGSSize": 10,
+    "maxGSSize": 300
+  },
+  "possible_cause": "Parameters may be too lenient or gene list too large"
+} 
+
+[2025-07-28 07:57:50] session_20250728_075727_8345 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 10,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 07:58:00] session_20250728_075727_8345 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 9.42,
+  "input_gene_count": 10,
+  "output_pathway_count": 25,
+  "genes_per_second": 1.06,
+  "memory_used_mb": 0
+} 
+
+[2025-07-28 07:58:00] session_20250728_075727_8345 [INFO] KEGG_SUCCESS: KEGG analysis completed with 25 pathways 
+
+[2025-07-28 07:58:00] session_20250728_075727_8345 [INFO] FUNCTION_SUCCESS: Completed: KEGG pathway enrichment analysis
+    Details: {
+  "duration_seconds": 9.43,
+  "result_type": "enrichResult"
+} 
+
+[2025-07-28 07:58:00] session_20250728_075727_8345 [INFO] KEGG_GENE_CONVERSION: Starting manual Entrez ID to gene symbol conversion
+    Details: {
+  "pathway_count": 107,
+  "species": "mouse",
+  "has_geneID_column": true
+} 
+
+[2025-07-28 07:58:03] session_20250728_075727_8345 [INFO] KEGG_GENE_CONVERSION_COMPLETE: Manual gene symbol conversion completed
+    Details: {
+  "conversion_stats": {
+    "total_pathways": 107,
+    "successful_conversions": 107,
+    "failed_conversions": 0,
+    "entrez_ids_converted": 151,
+    "symbols_found": 151
+  },
+  "conversion_rate_percent": 100,
+  "species": "mouse"
+} 
+
+[2025-07-28 08:03:35] session_20250728_080335_1103 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_080335_1103",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 08:03:35"
+} 
+
+[2025-07-28 08:03:35] session_20250728_080335_1103 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 08:03:35",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 08:03:35] session_20250728_080335_1103 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 08:03:36] session_20250728_080336_1562 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_080336_1562",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 08:03:36"
+} 
+
+[2025-07-28 08:03:36] session_20250728_080336_1562 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 08:03:36",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 08:03:36] session_20250728_080336_1562 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 08:04:12] session_20250728_080336_1562 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 08:04:12] session_20250728_080336_1562 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 08:04:12] session_20250728_080336_1562 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 300,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 08:04:40] session_20250728_080336_1562 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 28,
+  "input_gene_count": 300,
+  "output_pathway_count": 246,
+  "genes_per_second": 10.71,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 08:04:40] session_20250728_080336_1562 [INFO] GO_SUCCESS: GO BP analysis completed with 246 pathways 
+
+[2025-07-28 08:04:40] session_20250728_080336_1562 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 28.34,
+  "input_gene_count": 12924,
+  "output_pathway_count": 52,
+  "genes_per_second": 455.96,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 08:05:25] session_20250728_080336_1562 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "KEGG",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 08:05:25] session_20250728_080336_1562 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "KEGG",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 08:05:25] session_20250728_080336_1562 [INFO] USER_ACTION: User performed: KEGG_ANALYSIS_STARTED
+    Details: {
+  "action": "KEGG_ANALYSIS_STARTED",
+  "inputs": {
+    "organism": "mmu",
+    "gene_count": 786,
+    "species": "mouse"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 08:05:35] session_20250728_080336_1562 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 9.74,
+  "input_gene_count": 786,
+  "output_pathway_count": 13,
+  "genes_per_second": 80.69,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 08:05:35] session_20250728_080336_1562 [INFO] KEGG_SUCCESS: KEGG analysis completed with 13 pathways 
+
+[2025-07-28 08:05:35] session_20250728_080336_1562 [INFO] FUNCTION_SUCCESS: Completed: KEGG pathway enrichment analysis
+    Details: {
+  "duration_seconds": 9.74,
+  "result_type": "enrichResult"
+} 
+
+[2025-07-28 08:05:35] session_20250728_080336_1562 [INFO] KEGG_GENE_CONVERSION: Starting manual Entrez ID to gene symbol conversion
+    Details: {
+  "pathway_count": 297,
+  "species": "mouse",
+  "has_geneID_column": true
+} 
+
+[2025-07-28 08:05:47] session_20250728_080336_1562 [INFO] KEGG_GENE_CONVERSION_COMPLETE: Manual gene symbol conversion completed
+    Details: {
+  "conversion_stats": {
+    "total_pathways": 297,
+    "successful_conversions": 297,
+    "failed_conversions": 0,
+    "entrez_ids_converted": 1513,
+    "symbols_found": 1513
+  },
+  "conversion_rate_percent": 100,
+  "species": "mouse"
+} 
+
+[2025-07-28 08:05:47] session_20250728_080336_1562 [INFO] PERFORMANCE: Analysis performance: KEGG
+    Details: {
+  "analysis_type": "KEGG",
+  "duration_seconds": 21.94,
+  "input_gene_count": 12924,
+  "output_pathway_count": 13,
+  "genes_per_second": 589.08,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:18:52] session_20250728_091852_9148 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_091852_9148",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:18:52"
+} 
+
+[2025-07-28 09:18:52] session_20250728_091852_9148 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:18:52",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:18:52] session_20250728_091852_9148 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 09:18:53] session_20250728_091853_9452 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_091853_9452",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:18:53"
+} 
+
+[2025-07-28 09:18:53] session_20250728_091853_9452 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:18:53",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:18:53] session_20250728_091853_9452 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 09:20:37] session_20250728_091853_9452 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:20:37] session_20250728_091853_9452 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 09:20:37] session_20250728_091853_9452 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 300,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:21:02] session_20250728_091853_9452 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 25.24,
+  "input_gene_count": 300,
+  "output_pathway_count": 246,
+  "genes_per_second": 11.89,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:21:02] session_20250728_091853_9452 [INFO] GO_SUCCESS: GO BP analysis completed with 246 pathways 
+
+[2025-07-28 09:21:03] session_20250728_091853_9452 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 25.95,
+  "input_gene_count": 12924,
+  "output_pathway_count": 52,
+  "genes_per_second": 497.95,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:27:08] session_20250728_092707_1306 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_092707_1306",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:27:08"
+} 
+
+[2025-07-28 09:27:08] session_20250728_092707_1306 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:27:08",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:27:08] session_20250728_092707_1306 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 09:27:08] session_20250728_092708_1251 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_092708_1251",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:27:08"
+} 
+
+[2025-07-28 09:27:08] session_20250728_092708_1251 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:27:08",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:27:08] session_20250728_092708_1251 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 09:28:06] session_20250728_092708_1251 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:28:06] session_20250728_092708_1251 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 09:28:06] session_20250728_092708_1251 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 300,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:28:32] session_20250728_092708_1251 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 25.87,
+  "input_gene_count": 300,
+  "output_pathway_count": 246,
+  "genes_per_second": 11.6,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:28:32] session_20250728_092708_1251 [INFO] GO_SUCCESS: GO BP analysis completed with 246 pathways 
+
+[2025-07-28 09:28:33] session_20250728_092708_1251 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 26.59,
+  "input_gene_count": 12924,
+  "output_pathway_count": 52,
+  "genes_per_second": 486.04,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:30:47] session_20250728_093047_4276 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_093047_4276",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:30:47"
+} 
+
+[2025-07-28 09:30:47] session_20250728_093047_4276 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:30:47",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:30:47] session_20250728_093047_4276 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 09:30:48] session_20250728_093048_5905 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_093048_5905",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:30:48"
+} 
+
+[2025-07-28 09:30:48] session_20250728_093048_5905 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:30:48",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:30:48] session_20250728_093048_5905 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 09:33:50] session_20250728_093350_7451 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_093350_7451",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:33:50"
+} 
+
+[2025-07-28 09:33:50] session_20250728_093350_7451 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:33:50",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:33:50] session_20250728_093350_7451 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 09:33:51] session_20250728_093351_4704 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_093351_4704",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:33:51"
+} 
+
+[2025-07-28 09:33:51] session_20250728_093351_4704 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:33:51",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:33:51] session_20250728_093351_4704 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 09:35:19] session_20250728_093351_4704 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GO",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:35:19] session_20250728_093351_4704 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GO",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 09:35:19] session_20250728_093351_4704 [INFO] USER_ACTION: User performed: GO_ANALYSIS_STARTED
+    Details: {
+  "action": "GO_ANALYSIS_STARTED",
+  "inputs": {
+    "ontology": "BP",
+    "gene_count": 300,
+    "species": "mouse",
+    "org_db": "OrgDb"
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:35:44] session_20250728_093351_4704 [INFO] PERFORMANCE: Analysis performance: GO BP
+    Details: {
+  "analysis_type": "GO BP",
+  "duration_seconds": 25.41,
+  "input_gene_count": 300,
+  "output_pathway_count": 246,
+  "genes_per_second": 11.81,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:35:44] session_20250728_093351_4704 [INFO] GO_SUCCESS: GO BP analysis completed with 246 pathways 
+
+[2025-07-28 09:35:45] session_20250728_093351_4704 [INFO] PERFORMANCE: Analysis performance: GO
+    Details: {
+  "analysis_type": "GO",
+  "duration_seconds": 26.13,
+  "input_gene_count": 12924,
+  "output_pathway_count": 52,
+  "genes_per_second": 494.54,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:41:58] session_20250728_094158_5340 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_094158_5340",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:41:58"
+} 
+
+[2025-07-28 09:41:58] session_20250728_094158_5340 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:41:58",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:41:58] session_20250728_094158_5340 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 09:41:58] session_20250728_094158_9036 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_094158_9036",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:41:58"
+} 
+
+[2025-07-28 09:41:58] session_20250728_094158_9036 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:41:58",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:41:58] session_20250728_094158_9036 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 09:43:00] session_20250728_094158_9036 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "GSEA",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:43:00] session_20250728_094158_9036 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "GSEA",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 09:43:24] session_20250728_094158_9036 [INFO] PERFORMANCE: Analysis performance: GSEA
+    Details: {
+  "analysis_type": "GSEA",
+  "duration_seconds": 24,
+  "input_gene_count": 12924,
+  "output_pathway_count": 12,
+  "genes_per_second": 538.45,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:44:01] session_20250728_094158_9036 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "MSigDB",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:44:01] session_20250728_094158_9036 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "MSigDB",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 09:44:02] session_20250728_094158_9036 [INFO] PERFORMANCE: Analysis performance: MSigDB
+    Details: {
+  "analysis_type": "MSigDB",
+  "duration_seconds": 0.82,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 15789.79,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:44:13] session_20250728_094158_9036 [INFO] USER_ACTION: User performed: PATHWAY_ANALYSIS_CLICKED
+    Details: {
+  "action": "PATHWAY_ANALYSIS_CLICKED",
+  "inputs": {
+    "analysis_type": "Reactome",
+    "species": "mouse",
+    "deseq2_available": true,
+    "deseq2_genes": 12924
+  },
+  "results_summary": {}
+} 
+
+[2025-07-28 09:44:13] session_20250728_094158_9036 [INFO] PATHWAY_ANALYSIS: Starting pathway analysis
+    Details: {
+  "analysis_type": "Reactome",
+  "species": "mouse",
+  "input_genes": 12924
+} 
+
+[2025-07-28 09:44:13] session_20250728_094158_9036 [INFO] PERFORMANCE: Analysis performance: Reactome
+    Details: {
+  "analysis_type": "Reactome",
+  "duration_seconds": 0,
+  "input_gene_count": 12924,
+  "output_pathway_count": 0,
+  "genes_per_second": 15976181.81,
+  "memory_used_mb": 0.01
+} 
+
+[2025-07-28 09:58:37] session_20250728_095837_6751 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_095837_6751",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:58:37"
+} 
+
+[2025-07-28 09:58:37] session_20250728_095837_6751 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:58:37",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:58:37] session_20250728_095837_6751 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 09:58:37] session_20250728_095837_9420 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_095837_9420",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 09:58:37"
+} 
+
+[2025-07-28 09:58:37] session_20250728_095837_9420 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 09:58:37",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 09:58:37] session_20250728_095837_9420 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+
+[2025-07-28 11:24:59] session_20250728_112459_5718 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_112459_5718",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 11:24:59"
+} 
+
+[2025-07-28 11:24:59] session_20250728_112459_5718 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 11:24:59",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 11:24:59] session_20250728_112459_5718 [INFO] APP_INIT: Prairie Genomics Suite starting up 
+
+[2025-07-28 11:25:00] session_20250728_112500_6822 [INFO] SYSTEM_START: Prairie Genomics Suite logging system initialized
+    Details: {
+  "session_id": "session_20250728_112500_6822",
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "Darwin",
+  "user": "joshuagarton",
+  "working_dir": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "timestamp": "2025-07-28 11:25:00"
+} 
+
+[2025-07-28 11:25:00] session_20250728_112500_6822 [INFO] SYSTEM_INFO: System information captured
+    Details: {
+  "r_version": "R version 4.5.1 (2025-06-13)",
+  "platform": "aarch64-apple-darwin20",
+  "os": "Darwin",
+  "os_version": "24.5.0",
+  "user": "joshuagarton",
+  "working_directory": "/Users/joshuagarton/Documents/GitHub/prairie-genomics-suite_v2/prairie-genomics-suite_shiny/prairie-genomics-suite_v5_enhanced",
+  "memory_limit": "Unix system - no limit function",
+  "loaded_packages": ["org.Mm.eg.db", "org.Hs.eg.db", "AnnotationDbi", "BiocFileCache", "dbplyr", "jsonlite", "biomaRt", "DESeq2", "SummarizedExperiment", "Biobase", "MatrixGenerics", "matrixStats", "GenomicRanges", "GenomeInfoDb", "IRanges", "S4Vectors", "BiocGenerics", "generics", "stats4", "ggrepel", "pheatmap", "RColorBrewer", "readxl", "shinyWidgets", "readr", "dplyr", "plotly", "ggplot2", "DT", "shinydashboard", "shiny", "stats", "graphics", "grDevices", "utils", "datasets", "methods", "base"],
+  "sys_time": "2025-07-28 11:25:00",
+  "timezone": "America/Chicago"
+} 
+
+[2025-07-28 11:25:00] session_20250728_112500_6822 [INFO] PATHWAY_MODULE_LOAD: Pathway analysis module loading 
+

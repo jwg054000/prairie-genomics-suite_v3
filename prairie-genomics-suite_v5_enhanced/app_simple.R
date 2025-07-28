@@ -1,10 +1,7 @@
-# Prairie Genomics Suite - R Shiny Implementation
-# Enhanced interactive genomics analysis platform
-# 
-# Author: Prairie Genomics Team
-# Based on existing Python implementation with R Shiny for better performance
+# Prairie Genomics Suite - R Shiny Implementation (Simple Version)
+# Minimal version for shinyapps.io deployment
 
-# Load required packages for shinyapps.io deployment
+# Load only essential packages
 library(shiny)
 library(shinydashboard)
 library(DT)
@@ -13,38 +10,41 @@ library(ggplot2)
 library(dplyr)
 library(readr)
 
-# Optional packages with graceful handling
-tryCatch(library(shinyWidgets), error = function(e) NULL)
-tryCatch(library(readxl), error = function(e) NULL)
-tryCatch(library(RColorBrewer), error = function(e) NULL)
-tryCatch(library(pheatmap), error = function(e) NULL)
-
-# Handle DESeq2 separately (may not be available on shinyapps.io)
+# Optional packages
+excel_support <- FALSE
 bioc_available <- FALSE
+enhanced_plots <- FALSE
+
+tryCatch({
+  library(readxl)
+  excel_support <- TRUE
+}, error = function(e) NULL)
+
+tryCatch({
+  library(RColorBrewer)
+  library(pheatmap)
+  enhanced_plots <- TRUE
+}, error = function(e) NULL)
+
+# Try to load DESeq2 (may fail on shinyapps.io)
 tryCatch({
   library(DESeq2)
   bioc_available <- TRUE
 }, error = function(e) {
-  cat("DESeq2 not available - some features will be limited\n")
+  cat("Note: DESeq2 not available - some analysis features will be limited\n")
 })
 
-excel_support <- requireNamespace("readxl", quietly = TRUE)
-enhanced_plots <- requireNamespace("RColorBrewer", quietly = TRUE)
-
-# No additional package loading needed - already handled above
-
-# Source helper functions
+# Source modules with error handling
 tryCatch({
   source("modules/data_upload.R")
   source("modules/sample_annotation.R") 
   source("modules/deseq2_analysis.R")
   source("modules/visualization.R")
-  cat("✅ All modules loaded successfully\n")
 }, error = function(e) {
   stop(paste("Error loading modules:", e$message))
 })
 
-# Define UI
+# Define UI (same as original)
 ui <- dashboardPage(
   dashboardHeader(
     title = tags$span(
@@ -87,13 +87,11 @@ ui <- dashboardPage(
         ),
         
         br(),
-        progressBar(
+        # Simple progress display without shinyWidgets
+        div(
+          style = "background-color: #3c8dbc; color: white; padding: 8px; border-radius: 4px; text-align: center;",
           id = "overall_progress",
-          value = 0,
-          total = 100,
-          status = "primary",
-          display_pct = TRUE,
-          striped = TRUE
+          "Analysis Progress: 0%"
         )
       ),
       
@@ -333,7 +331,7 @@ ui <- dashboardPage(
   )
 )
 
-# Define Server
+# Define Server (same as original but simplified)
 server <- function(input, output, session) {
   # Reactive values to store data
   values <- reactiveValues(
@@ -362,17 +360,14 @@ server <- function(input, output, session) {
     
     if (!is.null(values$expression_data)) {
       progress <- progress + 25
-      updateProgressBar(session, "overall_progress", value = progress)
     }
     
     if (!is.null(values$annotation_data)) {
       progress <- progress + 25
-      updateProgressBar(session, "overall_progress", value = progress)
     }
     
     if (!is.null(values$deseq2_results)) {
       progress <- progress + 50
-      updateProgressBar(session, "overall_progress", value = progress)
     }
     
     values$progress <- progress

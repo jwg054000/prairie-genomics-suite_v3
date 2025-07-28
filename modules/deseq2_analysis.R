@@ -91,13 +91,11 @@ deseq2AnalysisUI <- function(id) {
           condition = paste0("output['", ns("analysis_running"), "']"),
           
           h5("Running DESeq2 Analysis..."),
-          progressBar(
+          # Simple progress display without shinyWidgets
+          div(
+            style = "background-color: #3c8dbc; color: white; padding: 8px; border-radius: 4px; text-align: center; margin: 10px 0;",
             id = ns("analysis_progress"),
-            value = 0,
-            total = 100,
-            status = "primary",
-            display_pct = TRUE,
-            striped = TRUE
+            "Progress: 0%"
           ),
           
           div(id = ns("progress_text"), "Initializing...")
@@ -195,6 +193,12 @@ deseq2Analysis <- function(input, output, session, values) {
   observeEvent(input$run_analysis, {
     req(values$expression_data, values$annotation_data)
     req(input$selected_contrast)
+    
+    # Check if DESeq2 is available
+    if (!requireNamespace("DESeq2", quietly = TRUE)) {
+      add_status_message("❌ DESeq2 package not available. This feature requires Bioconductor installation.", "danger")
+      return()
+    }
     
     # Show progress
     local_values$analysis_running <- TRUE
@@ -316,13 +320,10 @@ deseq2Analysis <- function(input, output, session, values) {
     })
   }
   
-  # Helper function to update progress
+  # Helper function to update progress (simplified for shinyapps.io)
   update_progress <- function(value, text) {
-    session$sendCustomMessage("updateProgress", list(
-      id = ns("analysis_progress"),
-      value = value,
-      text = text
-    ))
+    # Simple console output instead of complex progress updates
+    cat(paste0("Progress: ", value, "% - ", text, "\n"))
   }
   
   # Helper function to add status messages
