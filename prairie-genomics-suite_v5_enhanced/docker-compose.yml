@@ -1,0 +1,144 @@
+# 🏆 PRAIRIE GENOMICS SUITE - PRODUCTION DEPLOYMENT
+# Expert-Validated AI Genomics Analysis Platform
+# Docker Compose Configuration for Production Deployment
+
+version: '3.8'
+
+services:
+  # ============================================================================
+  # PRODUCTION PLATFORM
+  # ============================================================================
+  prairie-genomics-production:
+    build: .
+    container_name: prairie-genomics-production
+    ports:
+      - "3838:3838"
+    environment:
+      - SHINY_PORT=3838
+      - SHINY_HOST=0.0.0.0
+      - R_MAX_VSIZE=4Gb
+    volumes:
+      - ./logs:/srv/prairie-genomics-suite/logs
+      - ./user_data:/srv/prairie-genomics-suite/user_data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3838/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.prairie-genomics.rule=Host(`genomics.yourdomain.com`)"
+      - "traefik.http.routers.prairie-genomics.tls=true"
+      - "traefik.http.routers.prairie-genomics.tls.certresolver=letsencrypt"
+    networks:
+      - prairie-genomics-network
+
+  # ============================================================================
+  # REVERSE PROXY (OPTIONAL)
+  # ============================================================================
+  traefik:
+    image: traefik:v2.10
+    container_name: prairie-genomics-traefik
+    command:
+      - "--api.dashboard=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.websecure.address=:443"
+      - "--certificatesresolvers.letsencrypt.acme.httpchallenge=true"
+      - "--certificatesresolvers.letsencrypt.acme.httpchallenge.entrypoint=web"
+      - "--certificatesresolvers.letsencrypt.acme.email=your-email@domain.com"
+      - "--certificatesresolvers.letsencrypt.acme.storage=/letsencrypt/acme.json"
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8080:8080"  # Traefik dashboard
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./letsencrypt:/letsencrypt
+    restart: unless-stopped
+    networks:
+      - prairie-genomics-network
+    profiles:
+      - production-with-ssl
+
+  # ============================================================================
+  # BETA TESTING ENVIRONMENT
+  # ============================================================================
+  prairie-genomics-beta:
+    build: .
+    container_name: prairie-genomics-beta
+    ports:
+      - "3839:3838"
+    environment:
+      - SHINY_PORT=3838
+      - SHINY_HOST=0.0.0.0
+      - BETA_MODE=true
+      - R_MAX_VSIZE=4Gb
+    volumes:
+      - ./logs:/srv/prairie-genomics-suite/logs
+      - ./beta_data:/srv/prairie-genomics-suite/user_data
+      - ./beta_feedback:/srv/prairie-genomics-suite/feedback
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.prairie-genomics-beta.rule=Host(`beta.genomics.yourdomain.com`)"
+      - "traefik.http.routers.prairie-genomics-beta.tls=true"
+      - "traefik.http.routers.prairie-genomics-beta.tls.certresolver=letsencrypt"
+    networks:
+      - prairie-genomics-network
+    profiles:
+      - beta-testing
+
+  # ============================================================================
+  # MONITORING & ANALYTICS
+  # ============================================================================
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prairie-genomics-prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--web.enable-lifecycle'
+    restart: unless-stopped
+    networks:
+      - prairie-genomics-network
+    profiles:
+      - monitoring
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: prairie-genomics-grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=genomics_admin_2025
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./monitoring/grafana/dashboards:/etc/grafana/provisioning/dashboards
+      - ./monitoring/grafana/datasources:/etc/grafana/provisioning/datasources
+    restart: unless-stopped
+    networks:
+      - prairie-genomics-network
+    profiles:
+      - monitoring
+
+# ============================================================================
+# NETWORKS & VOLUMES
+# ============================================================================
+networks:
+  prairie-genomics-network:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  grafana_data:
