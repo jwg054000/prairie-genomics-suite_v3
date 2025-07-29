@@ -1,0 +1,13 @@
+sample,condition,cell_line,replicate,description
+MC9_1,MC9,MC9,1,Mouse cancer cell line MC9 replicate 1
+MC9_2,MC9,MC9,2,Mouse cancer cell line MC9 replicate 2
+MC9_3,MC9,MC9,3,Mouse cancer cell line MC9 replicate 3
+MLM_1,MLM,MLM,1,Mouse lymphoma cell line MLM replicate 1
+MLM_2,MLM,MLM,2,Mouse lymphoma cell line MLM replicate 2
+MLM_3,MLM,MLM,3,Mouse lymphoma cell line MLM replicate 3
+M1245_1,M1245,M1245,1,Mouse cell line M1245 replicate 1
+M1245_2,M1245,M1245,2,Mouse cell line M1245 replicate 2
+M1245_3,M1245,M1245,3,Mouse cell line M1245 replicate 3
+M242_1,M242,M242,1,Mouse cell line M242 replicate 1
+M242_2,M242,M242,2,Mouse cell line M242 replicate 2
+M242_3,M242,M242,3,Mouse cell line M242 replicate 3
